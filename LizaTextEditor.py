@@ -2,7 +2,7 @@ import sys
 import threading
 from PyQt5.QtCore import QRegExp
 from PyQt5.QtWidgets import QWidget, QApplication, QVBoxLayout, QHBoxLayout, QAction
-from PyQt5.QtWidgets import QTextEdit, QLabel, QShortcut, QFileDialog, QMessageBox, QMenuBar, QMenu, QToolBar, QSpinBox, QComboBox
+from PyQt5.QtWidgets import QTextEdit, QLabel, QShortcut, QFileDialog, QMessageBox, QMenuBar, QMenu, QToolBar
 from PyQt5.QtGui import QKeySequence, QIcon, QColor, QTextCursor, QTextCharFormat, QSyntaxHighlighter, QFont
 from PyQt5 import Qt, QtGui
 
