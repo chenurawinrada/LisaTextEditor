@@ -346,7 +346,8 @@ class Window(QWidget):
                         mgb.close()
                 else:
                     messageBox = QMessageBox()
-                    messageBox.setWindowTitle("No updates available.")
+                    messageBox.setWindowTitle("Info.")
+                    messageBox.setText("No updates available.")
                     messageBox.exec()
         else:
             messageBox = QMessageBox()
