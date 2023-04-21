@@ -1,5 +1,6 @@
 # LisaTextEditor
-This my first app using Python. And I done this with the help of some websites such as You-Tube, Stackoverflow, Geeks for geeks etc..... So there may be some issues. But don't worry this app is working good. And it is similar to Notepad++. But in this app, the only language you  can use is Python. Because I did not setup the syntax highlining effect to other programming languages. So enjoy my app.
+*Updated version: VERSION 5.0
+I made this app with the help of some websites such as You-Tube, Stackoverflow, Geeks for geeks etc..... This app is similar to Notepad++. So enjoy my app.
 
 <img src="https://github.com/chenurawinrada/LisaTextEditor/blob/master/pics/iconlisa.png">
 
