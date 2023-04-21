@@ -1,0 +1,17 @@
+{
+	"color1": "black",
+	"color2": "blue",
+	"color3": "black",
+	"color4": "gray",
+	"color5": "black",
+	"color6": "white",
+	"png1": "pics/open.png",
+	"png2": "pics/save.png",
+	"png3": "pics/undo.png",
+	"png4": "pics/redo.png",
+	"png5": "pics/copy.png",
+	"png6": "pics/cut.png",
+	"png7": "pics/paste.png",
+	"png8": "pics/update.png",
+	"png9": "pics/settings.png"
+}

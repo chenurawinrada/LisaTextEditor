@@ -1,0 +1,17 @@
+{
+	"color1": "white",
+	"color2": "black",
+	"color3": "black",
+	"color4": "white",
+	"color5": "black",
+	"color6": "black",
+	"png1": "pics/open-light.png",
+	"png2": "pics/save-light.png",
+	"png3": "pics/undo-light.png",
+	"png4": "pics/redo-light.png",
+	"png5": "pics/copy-light.png",
+	"png6": "pics/cut-light.png",
+	"png7": "pics/paste-light.png",
+	"png8": "pics/update-light.png",
+	"png9": "pics/settings-light.png"
+}
