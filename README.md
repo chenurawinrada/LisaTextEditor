@@ -1,5 +1,5 @@
 # LisaTextEditor
-*Updated version: VERSION 5.0
+*Updated version: VERSION 5.0<br>
 I made this app with the help of some websites such as You-Tube, Stackoverflow, Geeks for geeks etc..... This app is similar to Notepad++. So enjoy my app.
 
 <img src="https://github.com/chenurawinrada/LisaTextEditor/blob/master/pics/iconlisa.png">
