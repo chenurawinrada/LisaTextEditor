@@ -14,4 +14,4 @@ I made this app with the help of some websites such as You-Tube, Stackoverflow, 
 
 *This script hase some additional comments. So if you dont need them, Just can clear them.
 
-*If you convert this script to an exe, the file will be taken approximately 112MB in size. But it will use low ram usage(Good for Python).
+*If you convert this script to an exe, the file will be taken approximately 280MB in size. But it will use low ram usage(Good for Python).
